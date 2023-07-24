@@ -1,0 +1,9 @@
+{
+    "name":"Color-Picker",
+    "description":"Extension to pick colour from web-page.",
+    "version":"1.0",
+    "manifest_version":3,
+    "background":{
+        "service_worker":"background.js"
+    }
+}
